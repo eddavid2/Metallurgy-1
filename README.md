@@ -1,1 +1,1 @@
-# Metallurgy-1 is where I'll be dropping my first few projects. Feel free to add up!
+Hi! My name is Edmundo, I'm a mechanical engineer, starting to learn about programming. I'll be posting little projects like this to try my hand at python. All feedback, suggestions and ideas are welcome, please send them to https://www.reddit.com/user/ed_tucumonkey
